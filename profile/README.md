@@ -31,4 +31,4 @@ We make server management effortless:
 
 **Ready to scale? Start hosting with us today!**
 
-[Discord](<https://discord.gg/CKsQZNV8HT>) ** **  ** **  ** **   [Main Website](<https://scalehosting.net>)   ** **  ** **  ** ** [Panel](<https://panel.scalehosting.net>)  ** **  ** **  ** ** [Soon: Client Panel](<https://client.scalehosting.net>)
+[Discord](<https://discord.gg/CKsQZNV8HT>) | [Main Website](<https://scalehosting.net>) | [Panel](<https://panel.scalehosting.net>)  | [Soon: Client Panel](<https://client.scalehosting.net>)
